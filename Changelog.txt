@@ -1,0 +1,38 @@
+
+-------------------------------------
+------  Season 9 Kor Version  -------
+---- http://evolution-team.eu -------
+------ skype: evolution-team --------
+-------------------------------------
+
+------> 12.01.16
+--> Organize Server Files - 30%
+--> Setup Database - 80%
+--> Running Server - 80%
+--> Running Client - 0%
+--> NON MD5 Support Database - 0%
+--> NON MD5 Support JoinServer - 0%
+--> CashShop Server - 0%
+--> Import Mu2003_Event_DB in MuOnline - 100%
+--> Import MuLog in MuOnline - 100%
+--> Import Ranking in MuOnline - 100%
+--> EventServer Connection - 100%
+--> RankingServer Connection - 100%
+--> ShopServer Connection - 100%
+--> MapServerInfo Corrected - 100%
+
+------> Procedures Missing:
+--> WZ_UserSettingInfo_Save
+--> WZ_UserSettingInfo_Load
+--> WZ_DeleteUserSettingInfo
+--> WZ_ITL_UpdateGuildEnterCount
+--> WZ_ITL_UpdateGuildPoint
+--> WZ_ITL_GiveReward
+--> WZ_ITL_UpdateUserPoint
+--> WZ_ITL_UserRewardRenew
+--> WZ_ITL_RenewGuildRank
+--> WZ_ITL_GetGuildRank
+--> WZ_ITL_GetUserRewardList
+--> WZ_ITL_GetTournament
+--> WZ_ITL_GetGuildCnt
+--> WZ_ITL_GetUserEnterCnt
